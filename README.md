@@ -1,4 +1,4 @@
-# mahmoudLotfy-Serverless-Image-Processing-with-S3-and-Lambda
+#Manara AWS project-Serverless-Image-Processing-with-S3-and-Lambda
 
 Project name : Serverless Image Processing with S3 and Lambda
 
